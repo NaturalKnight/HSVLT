@@ -1,0 +1,3 @@
+# ninja log v5
+0	4935	1680112286	/home/oysy/projects/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-3.6/home/oysy/projects/InternImage/classification/ops_dcnv3/src/cpu/dcnv3_cpu.o	6157318e1de29f32
+0	24366	1680112305	/home/oysy/projects/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-3.6/home/oysy/projects/InternImage/classification/ops_dcnv3/src/vision.o	a320da4732ee6f52

@@ -1,0 +1,4 @@
+# ninja log v5
+0	5580	1680114723	/home/oysy/projects/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-cpython-37/home/oysy/projects/InternImage/classification/ops_dcnv3/src/cpu/dcnv3_cpu.o	3da59c9174f127f5
+1	27397	1680114774	/home/oysy/projects/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-cpython-37/home/oysy/projects/InternImage/classification/ops_dcnv3/src/vision.o	7004e6c0620f1d63
+0	80943	1680114828	/home/oysy/projects/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-cpython-37/home/oysy/projects/InternImage/classification/ops_dcnv3/src/cuda/dcnv3_cuda.o	86f20e16a09bb351
